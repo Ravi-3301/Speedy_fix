@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404177815781",
+    "project_id": "speedyfix-66b56",
+    "storage_bucket": "speedyfix-66b56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404177815781:android:bc3027786cacb349ddac0c",
+        "android_client_info": {
+          "package_name": "com.example.speedyfix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYD5ETJsGtP6x4q9o7xA935aXVhAKm_VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
